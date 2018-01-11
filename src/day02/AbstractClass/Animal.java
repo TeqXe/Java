@@ -21,7 +21,7 @@ public abstract class Animal {
 	 * 
 	 * 6、abstract不能与final并列修饰同一个类。
 	 * 
-	 * 7、abstract 不能与private、static、final或native并列修饰同一个方法。
+	 * 7、abstract 不能与private、static、final或native并列修饰同一个方法。 
 	 */
 	public abstract void eat();
 
